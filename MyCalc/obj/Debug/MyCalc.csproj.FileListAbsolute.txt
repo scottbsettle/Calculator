@@ -1,0 +1,48 @@
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\God\Documents\Current Classes\Software Test and Quality Assurance\MyCalc\MyCalc\obj\Debug\MyCalc.StandardClac.resources
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.manifest
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.application
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.StandardClac.resources
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe.manifest
+C:\Users\God\Documents\Visual Studio 2015\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.application
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.StandardClac.resources
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.manifest
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.application
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe.manifest
+C:\Users\TomAlex\Documents\Tom Alex\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.application
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe.manifest
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.application
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.StandardClac.resources
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.Cache
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe.manifest
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.application
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\God\Documents\Bits\School\Projects\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
